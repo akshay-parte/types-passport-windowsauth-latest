@@ -1,5 +1,5 @@
 // Type definitions for passport-latest-windowsauth 1.0
-// Project: https://github.com/Nikunj-bs/passport-windowsauth.git#readme
+// Project: https://github.com/akshay-parte/types-passport-windowsauth-latest#readme
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 2.3
 
